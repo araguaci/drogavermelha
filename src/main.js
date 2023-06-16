@@ -6,7 +6,7 @@ import PdfViewer from './components/PdfViewer.vue'
 const router = createRouter({
   history: createWebHistory(),
   routes: [
-    { path: '/ponerologia-psicopatas-no-poder', component: PdfViewer }
+    { path: '/droga_vermelha_josepf_douglass', component: PdfViewer }
   ]
 })
 

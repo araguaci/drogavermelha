@@ -10,7 +10,7 @@ export default {
   methods: {
     openPdf() {
       const file = this.$route.params.file
-      const pdfUrl = '/ponerologia-psicopatas-no-poder' + file + '.pdf'
+      const pdfUrl = '/droga_vermelha_josepf_douglass' + file + '.pdf'
       // window.open(pdfUrl, '_blank')
     }
   }

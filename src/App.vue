@@ -11,7 +11,7 @@ export default {
   },
   methods: {
     openPdf() {
-      const file = 'ponerologia-psicopatas-no-poder.pdf' // 将'your-file-name'替换为实际的文件名
+      const file = 'droga_vermelha_josepf_douglass.pdf' // 将'your-file-name'替换为实际的文件名
       window.open(`/${file}`, '_self')
     }
   }
