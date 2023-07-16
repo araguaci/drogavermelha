@@ -1,3 +1,7 @@
+# Droga Vermelha 
+
+## A Narcotização da América e do Ocidente
+
 “A fraude e as drogas são os nossos dois primeiros escalões estratégicos na guerra contra o capitalismo.” 
 NIKITA KHRUSHCHEV, 1963
 
